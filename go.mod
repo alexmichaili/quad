@@ -1,4 +1,4 @@
-module main
+module quad
 
 go 1.24.7
 
