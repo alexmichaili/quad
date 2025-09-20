@@ -1,4 +1,4 @@
-module quad
+module github.com/alexmichaili/quad
 
 go 1.24.7
 
